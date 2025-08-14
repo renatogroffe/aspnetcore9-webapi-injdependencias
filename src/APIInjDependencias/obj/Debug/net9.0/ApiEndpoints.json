@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "APIInjDependencias.Controllers.TestesController",
+    "Method": "Get",
+    "RelativePath": "Testes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "APIInjDependencias.Implementations.ResultadoInjecao",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
