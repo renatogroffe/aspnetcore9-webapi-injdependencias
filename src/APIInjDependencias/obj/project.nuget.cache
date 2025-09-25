@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SXlZBE/zeUE=",
+  "dgSpecHash": "s78nRz20NzU=",
   "success": true,
-  "projectFilePath": "D:\\DotNet9\\inj-dep\\webapi\\APIInjDependencias\\APIInjDependencias.csproj",
+  "projectFilePath": "C:\\DotNet9\\github\\aspnetcore9-webapi-injdependencias\\src\\APIInjDependencias\\APIInjDependencias.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\renat\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
-    "C:\\Users\\renat\\.nuget\\packages\\scalar.aspnetcore\\2.6.9\\scalar.aspnetcore.2.6.9.nupkg.sha512"
+    "C:\\Users\\renat\\.nuget\\packages\\scalar.aspnetcore\\2.8.6\\scalar.aspnetcore.2.8.6.nupkg.sha512"
   ],
   "logs": []
 }
